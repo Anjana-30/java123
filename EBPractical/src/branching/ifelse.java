@@ -1,21 +1,21 @@
 package branching;
 
-import java.util.Scanner;
+
 
 public class ifelse {
 
 	public static void main(String[] args) {
 		
+         int age;
+		
+		age=28;
+		
+		if(age>=18)// it always sets the condition as true.
+		System.out.println("i can cast my vote");
+		else
+		System.out.println("this is else block");
 
-Scanner reader = new Scanner(System.in);
 
-System.out.println("enter a number");
-int n= reader.nextInt();
-
-if(n % 2 == 0)
-System.out.println("number is even:" + n);
-else
-	System.out.println("number is odd:" +n);
 	
 	
 	}
