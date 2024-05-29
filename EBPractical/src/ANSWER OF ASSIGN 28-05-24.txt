@@ -1,0 +1,74 @@
+(a) Object-oriented programming permits reusability of the existing
+code.
+
+ans: TRUE
+
+
+(b) Languages earlier than procedural programming languages made
+use of only global variables.
+
+ANS:TRUE
+
+
+(c) It is easier to write, understand and maintain programs if they use
+Object-Oriented programming model as compared to Structured
+programming model.
+
+ANS:TRUE
+
+
+(d) As compared to procedures, data is not given enough importance in
+Procedural programming.
+
+ANS:TRUE
+
+
+(e) Structured programming model does not represent the real world
+problem as well as the Object-oriented programming model.
+
+ANS:FALSE(OOPS CAN REPRESENT REAL WORLD PROBLEMS)
+
+
+(f) A class permits us to build user-defined data types.
+
+ANS: TRUE
+
+
+i) Encapsulation facilitates a single function name to be used for the
+same operation performed on related derived classes.
+
+ANS: FALSE (THIS CONCEPT IS CALLED POLYMORPHISM.)
+
+
+(j) In polymorphism even though the function names are same, their
+implementation may vary from class to class.
+
+ANS:FALSE(IN POLYMORPHISM THE SAME NAME IS USED,BUT FOR THE FUNCTIONS OF THE SAME CLASS.)
+
+
+(k) Multiple objects can be created from the same class.
+
+ANS:TRUE
+
+
+(l) Object-oriented Programming paradigm stresses on dividing the
+logic into smaller parts and writing procedures for each part.
+
+ANS:TRUE
+
+
+(m) Classes and objects are cornerstones of structured programming
+paradigm.
+
+ANS: TRUE
+
+
+(n) Object-oriented programming paradigm gives equal importance to
+data and the procedures that work on the data.
+
+ANS:TRUE
+
+
+(o) Java is a structured programming language.
+
+ANS: FALSE(JAVA IS A OBJECT ORIENTED PROGRAMMING LANGUAGE.)
